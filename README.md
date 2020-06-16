@@ -16,5 +16,5 @@ SendIT is a courier service that helps users deliver parcels to different destin
 - User can create an order
 - User can fetch all parcels
 
-#### [Backend](https://github.com/ezrogha/SendIT_API)
+#### Backend is [here](https://github.com/ezrogha/SendIT_API)
 #### [Site](https://sendit-advancement.herokuapp.com/)
